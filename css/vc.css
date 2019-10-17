@@ -1,0 +1,145 @@
+body {
+	font-size: 25px;
+	width: 1000px;
+	margin: 0px auto;
+}
+#menu_top {
+	background : black;
+	float: left;
+	font-style: white;
+	width: 1000px;
+	height: 40px;
+
+}
+#banner{
+	background : white;
+	height: auto;
+	width: 1000px;
+}
+#main #left{
+	width: 750px;
+	min-height: 200px;
+	float: left;
+	background: black;
+}
+#main #left ul{
+	margin: 0px;
+	padding: 0px;
+}
+#main #left ul li{
+	list-style: none;
+	border-top : 10px;
+	float: left;
+	margin-right: : 30px;
+	padding: 5px 15px;
+}
+#main #left ul li img{
+	float: right;
+	margin-right: 10px;
+	width: 200px;
+	height: 200px;
+	clear: left;
+}
+#main #left ul li h2{
+	font-size: 20px;
+	color: white;
+	clear: left;
+	margin-top: 0px;
+}
+
+#main #right{
+	width: 250px;
+	min-height: 400px;
+	float: left;
+}
+#footer #left{
+	background: skyblue;
+	width: 750px;
+	text-align: center;
+	height: 60px;
+	color: #fff;
+	clear: left;
+	line-height: 60px;
+}
+#footer #right{
+	width: 250px;
+	height: 100px;
+	float: right;
+	min-height: 200px;
+	background: red;
+    padding: 0px;
+    margin: 0px;
+}
+#menu_top ul {
+	margin: 0px;
+	padding: 0px;
+}
+#menu_top ul li{
+	list-style: none;
+	float: left;
+}
+#menu_top ul li a{
+	text-decoration: none;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	color: white;
+	padding: 0px 22px 0px 22px;
+	border-right: 1px solid black;
+}
+#menu_top ul li a:hover{
+	color: orange;
+}
+#menu_top ul li a.active{
+	background: blue;
+}
+#banner img{
+	width: 1000px;
+	height: 200px;
+
+}
+#main #right .menu_right ul{
+	margin: -15px 0px 0px 0px;
+	padding: 0px;
+	border: 1px solid #ccc;
+}
+#main #right .menu_right ul li{
+	list-style:none;
+	background: yellow;
+}
+#main #right .menu_right ul li a{
+	display: block;
+	text-decoration: none;
+	line-height: 45px;
+	border-bottom: 1px solid black;
+	height: 50px;
+	text-indent: 10px;
+}
+#main #right .menu_right ul li a:hover {
+	color: red
+}
+#main #right .menu_right p{
+	background: red ;
+	height: 40px;
+	margin-top: 0px;
+	font-size: 14px;
+	line-height: 40px;
+	text-indent: 15px;
+}
+#main #right .menu_right p img{
+	width: 25px;
+	height: 20px;
+	margin-top: 0px;
+
+}
+#main #right .menu_right ul li img{
+	width: 25px;
+	height: 20px;
+	margin-top: 0px;
+	background: red;
+}
+#main #right .menu_right  img{
+	width: 250px;
+	height: 537px;
+}
+
